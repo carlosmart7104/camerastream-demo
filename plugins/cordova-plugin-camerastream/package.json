@@ -1,0 +1,45 @@
+{
+  "_from": "git+https://github.com/carlosmart7104/cordova-plugin-camerastream.git",
+  "_id": "cordova-plugin-camerastream@0.1.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-camerastream",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/carlosmart7104/cordova-plugin-camerastream.git",
+    "rawSpec": "https://github.com/carlosmart7104/cordova-plugin-camerastream.git",
+    "saveSpec": "git+https://github.com/carlosmart7104/cordova-plugin-camerastream.git",
+    "fetchSpec": "https://github.com/carlosmart7104/cordova-plugin-camerastream.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/carlosmart7104/cordova-plugin-camerastream.git#c23cd03373474498479799ccd03b20be63111d91",
+  "_spec": "https://github.com/carlosmart7104/cordova-plugin-camerastream.git",
+  "_where": "/home/carma/Documentos/boca/camera-demo",
+  "author": {
+    "name": "carlosmart7104@gmail.com"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-camerastream",
+    "platforms": [
+      "android"
+    ]
+  },
+  "cordova_name": "Camera stream plugin",
+  "deprecated": false,
+  "description": "Camera stream plugin",
+  "keywords": [
+    "cordova",
+    "plugin",
+    "camera",
+    "stream"
+  ],
+  "licence": "MIT",
+  "name": "cordova-plugin-camerastream",
+  "version": "0.1.1"
+}

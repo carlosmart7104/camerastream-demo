@@ -1,0 +1,18 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "org.carma.camerademo"
+    },
+    "cordova-plugin-camerastream": {
+      "PACKAGE_NAME": "org.carma.camerademo"
+    }
+  },
+  "dependent_plugins": {}
+}

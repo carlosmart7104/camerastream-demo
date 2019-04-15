@@ -1,0 +1,18 @@
+{
+  "cordova-plugin-whitelist": {
+    "source": {
+      "type": "registry",
+      "id": "cordova-plugin-whitelist@1"
+    },
+    "is_top_level": true,
+    "variables": {}
+  },
+  "cordova-plugin-camerastream": {
+    "source": {
+      "type": "registry",
+      "id": "https://github.com/carlosmart7104/cordova-plugin-camerastream.git"
+    },
+    "is_top_level": true,
+    "variables": {}
+  }
+}
